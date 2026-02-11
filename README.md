@@ -82,6 +82,8 @@ Aarogya Saarthi is an advanced hospital management system that combines **Artifi
 
 ## Documentation
 
+📋 **[Project Summary](./PROJECT_SUMMARY.md)** - Executive summary with key statistics and quick reference
+
 📖 **[Complete Project Description](./PROJECT_DESCRIPTION.md)** - Comprehensive overview of features, technology stack, and capabilities
 
 🏗️ **[System Architecture](./ARCHITECTURE.md)** - Detailed architecture diagrams, data flow, and technical design
